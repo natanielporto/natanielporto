@@ -1,6 +1,5 @@
 <div style="max-width:1080px;margin:auto;">
 <div style="display:flex;align-items:center;justify-content:center;margin:24px;max-width:1080px;">
-  <img src="assets/natanielporto.jpeg" style="border-radius:50%;width:200px;height:200px" />
   <div style="padding-left:24px;display:flex;justify-content:center;flex-direction:column;">
     <div>
       <h2>Hey, what's up? Thanks for coming by! My name is Nataniel Porto.</h2>
@@ -21,7 +20,7 @@
 <div style="display:flex;justify-content:space-around;margin-bottom:48px;">
 
 ```
-Front-end => 2+ years:
+Front-end (2+ years):
 - ReactJS
 - Styled Components
 - Redux
@@ -29,7 +28,7 @@ Front-end => 2+ years:
 ```
 
 ```
-Back-end => 1+ years:
+Back-end (1+ years):
 - NodeJS
 - Express
 - GraphQL
@@ -39,7 +38,7 @@ Back-end => 1+ years:
 ```
 
 ```
-Mobile => 1+ years:
+Mobile (1+ years):
 - React-Native
 ```
 </div>
