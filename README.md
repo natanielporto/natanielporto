@@ -20,15 +20,14 @@
 <div style="display:flex;justify-content:space-around;margin-bottom:48px;">
 
 ```
-Front-end (2+ years):
+Front-end:
+- JavaScript
+- TypeScript
 - ReactJS
-- Styled Components
-- Redux
-- Saga
 ```
 
 ```
-Back-end (1+ years):
+Back-end:
 - NodeJS
 - Express
 - GraphQL
@@ -38,11 +37,21 @@ Back-end (1+ years):
 ```
 
 ```
-Mobile (1+ years):
+Mobile:
 - React-Native
 ```
 </div>
 
+```
+Other known|familiar techs:
+- Jest
+- Cypress
+- MobX
+- TailwindCSS
+- Styled Components
+- Redux
+- Saga
+```
 ## Future courses that I already have bought and will be learning about soon:
 
 <div style="display:flex;justify-content:space-around;margin-bottom:48px;">
